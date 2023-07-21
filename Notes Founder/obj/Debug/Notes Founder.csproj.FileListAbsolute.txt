@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\C#\New folder\Notes Founder\bin\Debug\Notes Founder.exe.config
+C:\Users\User\Desktop\C#\New folder\Notes Founder\bin\Debug\Notes Founder.exe
+C:\Users\User\Desktop\C#\New folder\Notes Founder\bin\Debug\Notes Founder.pdb
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes Founder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes_Founder.Form1.resources
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes_Founder.Properties.Resources.resources
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes Founder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes Founder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes Founder.exe
+C:\Users\User\Desktop\C#\New folder\Notes Founder\obj\Debug\Notes Founder.pdb
+C:\Users\User\source\repos\Notes Founder\bin\Debug\Notes Founder.exe.config
+C:\Users\User\source\repos\Notes Founder\bin\Debug\Notes Founder.exe
+C:\Users\User\source\repos\Notes Founder\bin\Debug\Notes Founder.pdb
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes Founder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes_Founder.Form1.resources
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes_Founder.Properties.Resources.resources
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes Founder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes Founder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes Founder.exe
+C:\Users\User\source\repos\Notes Founder\obj\Debug\Notes Founder.pdb
